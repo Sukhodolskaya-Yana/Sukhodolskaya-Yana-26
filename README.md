@@ -1,4 +1,5 @@
 
+
 # Sukhodolskaya-Yana-26
 
 
@@ -12,9 +13,13 @@ int main()
 {
 
 	int a=746;
-int	 s= a% 10;
+	
+int s= a% 10;
+
 int d= s%10;
+
 int n= d%10;
+
 	cout<<s+d+n;
 
 
