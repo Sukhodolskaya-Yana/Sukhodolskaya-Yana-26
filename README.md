@@ -51,7 +51,9 @@ double f5 (double x)
 {
 
 	double a = pow(sin(x),2)+pow(cos(x),2)+1;
+	
   double n= sqrt(pow(x,a));
+  
 	return n;
 
 
