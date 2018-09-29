@@ -1,5 +1,6 @@
 
 
+
 # Sukhodolskaya-Yana-26
 
 
@@ -29,8 +30,11 @@ int main()
 { 
 
 int a; 
+
 if(a==0); 
+
 cout<<true; 
+
 return 0; 
 
 }
